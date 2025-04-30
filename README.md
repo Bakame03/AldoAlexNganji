@@ -1,7 +1,7 @@
 ![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Bakame03</h1>
 <h3 align="center">A passionate Backend developer from Burundi</h3>
-<img align="center" alt="Coding" width="800" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img style="width: 100%; display: block; margin: 0 auto;" alt="Coding" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakame03&label=Profile%20views&color=0e75b6&style=flat" alt="bakame03" /> </p>
 
